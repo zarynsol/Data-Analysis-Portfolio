@@ -11,50 +11,24 @@ Check out my resume [here](link), and take a peek at my portfolio to see the pro
 ## Table of Contents
 - [About](https://github.com/zarynsol/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/zarynsol/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - Power BI
-    - [Hospitality Domain Dashboard](https://github.com/zarynsol/Data-Analysis-Portfolio/blob/main/README.md#hospitality-domain-dashboard:-analyzing-hotel-bookings)
   - Python
     - [Real Estate in Chicago 2024 Data Analysis](https://github.com/zarynsol/Data-Analysis-Portfolio/blob/main/README.md#real-state-in-chicago-2024-data-analysis)
   - SQL
-    - In Progress...
-  - R
-    - In Progress...
-  - Excel / Google Sheets
-    - In Progress...
-  - Tableau
     - In Progress...
  
 - [Education](https://github.com/zarynsol/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Contact](https://github.com/zarynsol/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
-In this section, I'll showcase various data analytics projects, providing brief descriptions of the technology stack used to solve each case.
-
-### Hospitality Domain Dashboard: Analyzing Hotel Bookings
-**DAX Formulas:** []()
-
-**Goal:** 
-
-**Description:** 
-
-**Skills:** 
-
-**Technology:** DAX, Power BI.
-
-**Results:** 
 
 ### Real Estate in Chicago 2024 Data Analysis
 **Link:** [Project](https://github.com/zarynsol/Projects/blob/main/real-estate-data-analysis.ipynb)
 
 **Goal:** Play around with pandas and numpy, apply statistical analyses.
 
-**Description:** 
-
 **Skills:** Data cleaning, Statistical Analyses
 
 **Technology:** Python, Jupyter Notebook, Pandas, Numpy
-
-**Results:** 
 
 ## Education
 University of Waterloo, ON, Canada: 
